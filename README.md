@@ -86,5 +86,7 @@
 ## Кластер 9
 
 Файл выравнивания: [ссылка](/data/alignment/9.aln) 
+
+---
 ![Uploading image.png…]()
 
