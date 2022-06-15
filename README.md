@@ -53,7 +53,6 @@
 # Выравнивания
 ## Кластер 0
 
-Файл выравнивания: [ссылка](/data/alignment/0.aln) 
 
 ---
 ![image](https://user-images.githubusercontent.com/93290073/173915127-a7c10a2f-0c9e-44ec-83fa-bc958ab90ab2.png)
