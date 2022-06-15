@@ -41,7 +41,7 @@
 ## Кластер 5
 ![image](https://user-images.githubusercontent.com/93290073/173916930-21889fb2-ef7c-4670-8285-efb76272f9c2.png)
 ## Кластер 6
-![image](https://user-images.githubusercontent.com/93290073/173916961-73120a67-8a11-425f-80ce-ed7b6d75fd86.png))
+![image](https://user-images.githubusercontent.com/93290073/173916961-73120a67-8a11-425f-80ce-ed7b6d75fd86.png)
 ## Кластер 7
 ![image](https://user-images.githubusercontent.com/93290073/173916994-54f08813-151a-427d-8866-2e9bff06d0b4.png)
 ## Кластер 8
