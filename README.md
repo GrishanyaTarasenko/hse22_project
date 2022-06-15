@@ -88,5 +88,6 @@
 Файл выравнивания: [ссылка](/data/alignment/9.aln) 
 
 ---
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/93290073/173914792-061803ce-5da4-4356-b5c5-1471b51c466e.png)
+
 
