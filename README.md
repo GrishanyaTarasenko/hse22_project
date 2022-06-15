@@ -27,6 +27,27 @@
 |7|5| В начале гена|8097.75|
 |8|5| Перед геном |932|
 |9|5| В начале гена |743.19|
+# Визуализация
+## Кластер 0
+![image](https://user-images.githubusercontent.com/93290073/173916781-00ff0a8a-68ca-408c-b08b-52c617a0d545.png)
+## Кластер 1
+![image](https://user-images.githubusercontent.com/93290073/173916801-d951c04e-62e7-4f6f-9c7a-c20b73b238d9.png)
+## Кластер 2
+![image](https://user-images.githubusercontent.com/93290073/173916828-0cdc8ee4-8205-4b83-a5a2-d64a39caf9af.png)
+## Кластер 3
+![image](https://user-images.githubusercontent.com/93290073/173916876-901b1121-6aef-4bf2-9474-f364b14cd7c3.png)
+## Кластер 4
+![image](https://user-images.githubusercontent.com/93290073/173916912-9dd45529-6be7-49db-bb4a-945858446217.png)
+## Кластер 5
+![image](https://user-images.githubusercontent.com/93290073/173916930-21889fb2-ef7c-4670-8285-efb76272f9c2.png)
+## Кластер 6
+![image](https://user-images.githubusercontent.com/93290073/173916961-73120a67-8a11-425f-80ce-ed7b6d75fd86.png))
+## Кластер 7
+![image](https://user-images.githubusercontent.com/93290073/173916994-54f08813-151a-427d-8866-2e9bff06d0b4.png)
+## Кластер 8
+![image](https://user-images.githubusercontent.com/93290073/173917023-5934ab3c-0e57-4793-99c0-1ae86166d37b.png)
+## Кластер 9
+![image](https://user-images.githubusercontent.com/93290073/173917053-c6099745-efda-4fd0-95e1-918ffc69b9d8.png)
 
 
 # Выравнивания
