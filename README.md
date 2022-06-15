@@ -77,16 +77,16 @@
 
 Файл выравнивания: [ссылка](/data/alignment/7.aln) 
 
-![image](https://user-images.githubusercontent.com/93290073/173914137-034a7514-0654-4157-92d2-9cc75fb7d38d.png)
 ---
+![image](https://user-images.githubusercontent.com/93290073/173914137-034a7514-0654-4157-92d2-9cc75fb7d38d.png)
 
 ## Кластер 8
 
 Файл выравнивания: [ссылка](/data/alignment/8.aln) 
 
-![image](https://user-images.githubusercontent.com/93290073/173916059-e6058d2b-f885-4e17-b2e2-324bdbb41093.png)
-
 ---
+![image](https://user-images.githubusercontent.com/93290073/173916163-989b5eab-ac5c-4e89-842f-194abcc5ab1d.png)
+
 ## Кластер 9
 
 Файл выравнивания: [ссылка](/data/alignment/9.aln) 
