@@ -140,3 +140,15 @@
 |21|-| - |NaN|
 |22|-| - |NaN|
 |23|-| - |NaN|
+
+## Кластер 0
+![image](https://user-images.githubusercontent.com/93290073/173931272-c6ea476c-d603-4f0f-af70-e3bbb08929f2.png)
+## Кластер 1
+![image](https://user-images.githubusercontent.com/93290073/173931306-dccf55d6-fcb2-47bd-b2ce-b12e1037fa71.png)
+## Кластер 2
+![image](https://user-images.githubusercontent.com/93290073/173931333-4019c8ce-29c8-4548-8b3d-69b59e28d3d6.png)
+## Кластер 3
+![image](https://user-images.githubusercontent.com/93290073/173931365-396a01d9-ad0a-4c8b-a4a2-c08973ae7012.png)
+## Кластер 4
+![image](https://user-images.githubusercontent.com/93290073/173931401-8b056ede-3d12-4a85-af1f-b00429c4b031.png)
+## Кластер 5![image](https://user-images.githubusercontent.com/93290073/173931432-08b7c31c-5fe1-46bb-8b9d-13385951bd18.png)
