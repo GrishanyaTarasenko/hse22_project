@@ -10,7 +10,7 @@
 # Гистограмма гомологов
 ![image](https://user-images.githubusercontent.com/93290073/173889579-3b8e5244-b55c-4839-9549-e367cf3823de.png)
 
-!git status
+git status
 
 # Кластеры
 
