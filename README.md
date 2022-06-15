@@ -60,30 +60,33 @@
 
 ---
 ![image](https://user-images.githubusercontent.com/93290073/173913581-3ac873a1-3de1-4383-9b54-0208e3619241.png)
+
 ## Кластер 5
 
 Файл выравнивания: [ссылка](/data/alignment/5.aln) 
 
 ---
-![image](https://user-images.githubusercontent.com/93290073/173913681-94e0b2bc-41eb-4686-9f63-fc581cacfd7e.png)
+![image](https://user-images.githubusercontent.com/93290073/173913890-cbd36db6-34fa-43e7-bb80-0f7345414265.png)
 ## Кластер 6
 
 Файл выравнивания: [ссылка](/data/alignment/6.aln) 
 
 ---
-![image](https://user-images.githubusercontent.com/93290073/173913890-cbd36db6-34fa-43e7-bb80-0f7345414265.png)
+![image](https://user-images.githubusercontent.com/93290073/173913998-4fc500b1-bca2-4805-b334-4e48b80a8487.png)
 ## Кластер 7
 
 Файл выравнивания: [ссылка](/data/alignment/7.aln) 
 
 ---
-![image](https://user-images.githubusercontent.com/93290073/173913998-4fc500b1-bca2-4805-b334-4e48b80a8487.png)
+
 ## Кластер 8
 
 Файл выравнивания: [ссылка](/data/alignment/8.aln) 
 
----
 ![image](https://user-images.githubusercontent.com/93290073/173914137-034a7514-0654-4157-92d2-9cc75fb7d38d.png)
+
+
+---
 ## Кластер 9
 
 Файл выравнивания: [ссылка](/data/alignment/9.aln) 
